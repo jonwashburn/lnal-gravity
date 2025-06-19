@@ -1,0 +1,32 @@
+# LaTeX build files
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Binary data & intermediate results
+*.pkl
+*.mrt
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
+*.swo 
